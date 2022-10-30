@@ -1,5 +1,6 @@
 # Questions
-# 转置函数
+#question one :
+想尝试一个转置函数
 
 #include <stdio.h>
 

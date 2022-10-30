@@ -49,4 +49,4 @@ int transpose (int b,int x,int y)
 }
 
 //为什么会出现这个报错？如何修改？
-//[Error] invalid conversion from 'int (*)[x]' to 'int' [-fpermissive] 转换无效？可是我没有用到int* ？ 
+//[Error] invalid conversion from 'int (*)[x]' to 'int' [-fpermissive] 转换无效？ 
